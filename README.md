@@ -21,8 +21,12 @@ Or install it yourself as:
     $ gem install gdec
 
 ## Usage
+Type in console:
 
-TODO: Write usage instructions here
+    gdec
+A prompt will appear:
+    
+    What are you working on with master branch?
 
 ## Development
 
@@ -32,7 +36,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/gdec.
+Bug reports and pull requests are welcome on GitHub at https://github.com/viktharien/gdec.
 
 ## License
 
