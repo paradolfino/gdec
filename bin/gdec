@@ -1,0 +1,5 @@
+
+#!/usr/bin/env ruby
+require 'gdec'
+
+Gdec::GitDeclare.start
